@@ -1,0 +1,25 @@
+17:11:01,681 root INFO accuracy for predicting primary class : 0.9783241669362666
+17:11:01,777 root INFO subclass accuracy under HUM : 0.9096126255380201
+17:11:01,824 root INFO subclass accuracy under NUM : 0.8283433133732535
+17:11:01,887 root INFO subclass accuracy under ENTY : 0.7458333333333333
+17:11:01,918 root INFO subclass accuracy under LOC : 0.8931623931623932
+17:11:01,996 root INFO subclass accuracy under DESC : 0.9724349157733537
+17:11:02,12 root INFO subclass accuracy under ABBR : 0.9807692307692307
+17:11:03,322 root INFO final accuracy (over complete hierarchy) : 0.8557101261727597
+17:11:23,150 root INFO accuracy for predicting primary class : 0.9783241669362666
+17:11:23,258 root INFO subclass accuracy under HUM : 0.9096126255380201
+17:11:23,289 root INFO subclass accuracy under NUM : 0.8283433133732535
+17:11:23,351 root INFO subclass accuracy under ENTY : 0.7458333333333333
+17:11:23,398 root INFO subclass accuracy under LOC : 0.8931623931623932
+17:11:23,461 root INFO subclass accuracy under DESC : 0.9724349157733537
+17:11:23,477 root INFO subclass accuracy under ABBR : 0.9807692307692307
+17:11:24,695 root INFO final accuracy (over complete hierarchy) : 0.8557101261727597
+17:12:09,336 root INFO Predicted class hierarchy is : ENTY:other
+17:12:31,695 root INFO Predicted class hierarchy is : ENTY:other
+17:12:35,867 root INFO Predicted class hierarchy is : ENTY:other
+17:12:43,543 root INFO Predicted class hierarchy is : ENTY:other
+17:12:49,41 root INFO Predicted class hierarchy is : ENTY:other
+17:13:16,446 root INFO Predicted class hierarchy is : ENTY:other
+17:13:32,105 root INFO Predicted class hierarchy is : HUM:ind
+17:13:38,788 root INFO Predicted class hierarchy is : LOC:other
+17:13:50,555 root INFO Predicted class hierarchy is : LOC:other
